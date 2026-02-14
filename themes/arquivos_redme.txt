@@ -1,0 +1,5 @@
+Todas as extensões que eu abaixei
+-Apple para Janelas e estilo semaforo (tema, esse não é extensão (habilitado em ajustes))
+-Blur my Shell para blur em algumas partes do sistema
+-Dash to Dock pra uma dock mais organizada
+-Compize alike magic lamp effect (efeito de minimizar igual mac)
