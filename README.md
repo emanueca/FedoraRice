@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+    Uma das minhas primeiras personalizações no Fedora, baseado no Layout ThinkPad. 
     </p>
 
 <hr>
